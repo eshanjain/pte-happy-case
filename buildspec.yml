@@ -30,12 +30,12 @@ phases:
 
 
 reports:
-  happy-test-report-test:
+  happy-test-report-test-1:
     files:
       - "**/*"
     base-directory: 'test-reports'
     file-format: JunitXml
-  happy-test-report-cc:
+  happy-test-report-cc-1:
     files:
       - "**/*"
     base-directory: 'coverage'
